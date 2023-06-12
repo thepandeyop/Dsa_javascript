@@ -61,13 +61,17 @@
 // console.log(fill);
 
 // map method
-const users = [{f1name: 'john',l1name: 'roman'},{f2name: 'cena',l2name:"reings"}];
-// if i want a perticular name in  array using map
-const finaluser = users.map((user)=>{
-return {
-    fullname : user.f1name + user.f2name
-    // fullname2 : user.l1name + user.l2name
+// const users = [{f1name: 'john',l1name: 'roman'},{f2name: 'cena',l2name:"reings"}];
+// // if i want a perticular name in  array using map
+// const finaluser = users.map((user)=>{
+// return {
+//      fullname : `${user.f1name}  ${user.f2name}`
+//     // fullname2 : user.l1name + user.l2name
 
-}
-});
-console.log(finaluser);
+// }
+// });
+// console.log(finaluser);
+
+// reduce 
+
+
