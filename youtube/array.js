@@ -46,16 +46,18 @@
 
 
 
-//how to find a specific item in array 
-const arrobj = [
-{name: "abhishek",number: 5},
-{name: "atual",number: 6},
-{name: "aman ",number: 7},
-];
-console.log("find the name aman");
+//how to find a specific item in array
+const inventory = [
+    { name: "apples", quantity: 2 },
+    { name: "bananas", quantity: 0 },
+    { name: "cherries", quantity: 5 },
+  ];
+  
+  function isCherries(fruit) {
+    return fruit.name === "cherries";
+  }
+  
+  console.log(inventory.find(isCherries));
 
-function gives(people){
-return people.name=== "aman";
-}
+  
 
-console.log(arrobj.find(gives));
