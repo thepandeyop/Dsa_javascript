@@ -46,8 +46,7 @@
 
 
 
-//how to find a specific item in array 
-
+//how to find a specific item in array
 const inventory = [
     { name: "apples", quantity: 2 },
     { name: "bananas", quantity: 0 },
@@ -61,3 +60,4 @@ const inventory = [
   console.log(inventory.find(isCherries));
 
   
+

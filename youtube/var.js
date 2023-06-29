@@ -48,3 +48,64 @@
 // console.log(x);
 
 
+
+
+
+
+/*
+
+
+// // operators are -,*,/,**
+
+
+
+
+
+
+
+
+// // precendence rules
+
+
+// let v = 1 * 2 + ((5/2)%2); 
+// // a= 2 + ((5/2) % 2)
+// // a =2 +(2.5 % 2)
+// // a = 2 + 0.5
+// // a = 2.5
+
+
+
+
+
+
+
+
+// /*
+
+// operator 
+// * / %
+// + - 
+// =
+
+// */
+
+
+
+
+
+
+
+
+
+
+
+// /*
+// <  "less than"
+// <= "less than or equal to "
+// >= "greater than or equal to "
+// > = "greater than "
+
+// // we highly use this in javascript; 
+// === equality
+// !== not equals
+// */
