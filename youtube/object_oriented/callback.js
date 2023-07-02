@@ -30,14 +30,14 @@
 //   console.log(err);  
 // });
 
-const trying = new Promise((resolve,reject)=>
-{
-const success = " superman"
-if(success){
-    resolve('ok');
-}
-else{
-reject('error');
-}
-}
-)
+// const trying = new Promise((resolve,reject)=>
+// {
+// const success = " superman"
+// if(success){
+//     resolve('ok');
+// }
+// else{
+// reject('error');
+// }
+// }
+// )
